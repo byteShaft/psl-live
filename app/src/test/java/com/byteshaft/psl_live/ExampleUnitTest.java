@@ -1,4 +1,4 @@
-package com.byteshaft.psl_live;
+package com.byteshaft.psl_live_stream;
 
 import org.junit.Test;
 

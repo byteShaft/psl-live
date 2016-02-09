@@ -1,4 +1,4 @@
-package com.byteshaft.psl_live.utils;
+package com.byteshaft.psl_live_stream.utils;
 
 /**
  * Created by s9iper1 on 2/5/16.

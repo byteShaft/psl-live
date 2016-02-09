@@ -1,11 +1,11 @@
-package com.byteshaft.psl_live;
+package com.byteshaft.psl_live_stream;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.byteshaft.psl_live.utils.Config;
-import com.byteshaft.psl_live.utils.YouTubeFailureRecoveryActivity;
+import com.byteshaft.psl_live_stream.utils.Config;
+import com.byteshaft.psl_live_stream.utils.YouTubeFailureRecoveryActivity;
 import com.google.android.youtube.player.YouTubePlayer;
 import com.google.android.youtube.player.YouTubePlayerView;
 

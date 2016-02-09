@@ -1,9 +1,9 @@
-package com.byteshaft.psl_live.utils;
+package com.byteshaft.psl_live_stream.utils;
 
 import android.content.Intent;
 import android.widget.Toast;
 
-import com.byteshaft.psl_live.R;
+import com.byteshaft.psl_live_stream.R;
 import com.google.android.youtube.player.YouTubeBaseActivity;
 import com.google.android.youtube.player.YouTubeInitializationResult;
 import com.google.android.youtube.player.YouTubePlayer;
